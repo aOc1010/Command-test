@@ -100,3 +100,5 @@ if __name__ == '__main__':
     f = Filter(file('easylist.txt'))
     print 'start matching'
     f.match(sys.argv[1])
+
+// edit from web
